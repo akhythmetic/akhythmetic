@@ -2,7 +2,7 @@
 
 ## À propos de moi
 
-Je m'appelle **LOUATI** et je suis étudiant en MIASHS, parcours psychologie. Passionné par l'ingénierie data, l'informatique et les mathématiques, j'aime explorer divers domaines et enrichir continuellement mes compétences. Mon plus gros défaut est probablement de vouloir ajouter une infinité de cordes à mon arc tout en essayant de les utiliser toutes en même temps.
+Je m'appelle **LOUATI** et je suis étudiant en MIASHS, parcours psychologie. Passionné par la data science, l'informatique et les mathématiques, j'aime explorer divers domaines et enrichir continuellement mes compétences. Mon plus gros défaut est probablement de vouloir ajouter une infinité de cordes à mon arc tout en essayant de les utiliser toutes en même temps ; ce qui mene souvent à une grosse migraine.
 
 ## Compétences
 
