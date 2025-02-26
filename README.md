@@ -9,7 +9,7 @@ Je m'appelle **LOUATI** et je suis étudiant en MIASHS, parcours psychologie. Pa
 Voici un aperçu des technologies et outils que j'utilise :
 
 - **Langages de programmation** : PHP, JavaScript, Dart, Python, Java
-- **Frameworks et bibliothèques** : Flutter, BeautifulSoup, Selenium, NumPy, Pandas, GeoPandas, Seaborn
+- **Frameworks et bibliothèques** : Flutter, BeautifulSoup, Selenium, NumPy, Pandas, GeoPandas, Seaborn, request, plt, plotly, networkX
 - **Outils et plateformes** : SQL, Git, Bash, Shell, OpenSesame, R, Orange, Tableau, Jamovi, LaTeX
 - **Développement web** : Fullstack
 
