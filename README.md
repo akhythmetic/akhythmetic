@@ -20,9 +20,10 @@ Voici un aperçu des technologies et outils que j'utilise :
 
 ## Centres d'intérêt
 
+- Data science
 - Lecture anglophone et francophone
 - Développement fullstack
-- Ingénierie data
+
 
 ## Me contacter
 
