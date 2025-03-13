@@ -29,6 +29,8 @@ Voici un aperçu des technologies et outils que j'utilise :
 
 - **LinkedIn** : [Chamss Eddine Louati](https://www.linkedin.com/in/chamss-eddine-louati-50a4992a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
+- **Instagram** : [Chamss Eddine Louati](https://www.instagram.com/akhythmetik?igsh=MWtieXJqaThrMGkxcw%3D%3D&utm_source=qr)
+
 Merci de visiter mon profil GitHub ! N'hésitez pas à me contacter pour discuter de projets, collaborations ou simplement échanger sur nos passions communes.
 
 ---
